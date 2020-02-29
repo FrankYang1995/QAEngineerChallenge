@@ -1,0 +1,7 @@
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\bin\Debug\csharpchallenge.exe.config
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\bin\Debug\csharpchallenge.exe
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\bin\Debug\csharpchallenge.pdb
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\obj\Debug\csharpchallenge.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\obj\Debug\csharpchallenge.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\obj\Debug\csharpchallenge.exe
+C:\Users\Frank\source\repos\csharpchallenge\csharpchallenge\obj\Debug\csharpchallenge.pdb
